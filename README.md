@@ -6,8 +6,8 @@ A simple and interactive **Stone-Paper-Scissors** game built using **HTML5, CSS3
 
 ## 🔗 Live Demo
 
-[Click Here to Play the Game](#)  
-*(Replace `#` with your GitHub Pages link if hosted)*
+##[Click Here to Play the Game](#)  
+
 
 ---
 
