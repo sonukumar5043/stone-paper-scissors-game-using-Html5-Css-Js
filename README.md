@@ -29,6 +29,6 @@ A simple and interactive **Stone-Paper-Scissors** game built using **HTML5, CSS3
 ---
 ## 📷 Screenshots
 
-[!image alt](https://github.com/sonukumar5043/stone-paper-scissors-game-using-Html5-Css-Js/blob/eb90f110adc7479ac0a1fe4adfc4d24cc5beea45/Screenshot%202025-07-21%20230737.png?raw=true)
+![image alt](https://github.com/sonukumar5043/stone-paper-scissors-game-using-Html5-Css-Js/blob/eb90f110adc7479ac0a1fe4adfc4d24cc5beea45/Screenshot%202025-07-21%20230737.png?raw=true)
 
 
