@@ -19,7 +19,6 @@ A simple and interactive **Stone-Paper-Scissors** game built using **HTML5, CSS3
 - ✨ Basic animations and responsive UI
 - 📱 Mobile-friendly
 
----
 
 ## 🛠️ Tech Stack
 
@@ -28,5 +27,6 @@ A simple and interactive **Stone-Paper-Scissors** game built using **HTML5, CSS3
 - **JavaScript** – for logic and interactivity
 
 ---
+## 📷 Screenshots
 
 
